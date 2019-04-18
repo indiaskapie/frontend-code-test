@@ -3,7 +3,7 @@
 This is a simple front-end code challenge created to serve two purposes:
 
 1. Show off your skills,
-1. Give us a better understanding of your skills.
+2. Give us a better understanding of your technical ability.
 
 ## The Task
 
@@ -24,7 +24,7 @@ The programming challenge exists of 2 parts:
 * Get an API key from: https://api.nasa.gov/#getting-started
 * Consume NASA's mars rover photos api @ https://api.nasa.gov/api.html#MarsPhotos to retrieve a list of mars photos.
 * Display the first 10 photos in the HTML + CSS layout created in part 1, sticking to the layout, placing data where it fits.
-* You are free to use any JS/TS framework you wish, or do it Vanilla JS.
+* You are free to use any **JS/TS framework** you wish, or do it Vanilla JS. 
 
 ## Additional Instructions
 
