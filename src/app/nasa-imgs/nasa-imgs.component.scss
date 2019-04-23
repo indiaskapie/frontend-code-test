@@ -1,0 +1,39 @@
+
+
+.mainHeading {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.mainContent {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-areas: "A B" "C D" "E F" "G H" "I J";
+}
+
+app-single-img {
+    width: 83%;
+    margin: 40px;
+}
+
+div.error {
+    text-align: center;
+    color: rgb(219, 15, 15);
+}
+
+.hidden {
+    display: none;
+}
+
+
+
+
+@media screen and (max-width: 568px) {
+    .mainContent {
+        grid-template-areas: "A" "B" "C" "D" "E" "F" "G" "H" "I" "J";
+        width: 90%;
+        margin-right: 7%;
+    } 
+}
